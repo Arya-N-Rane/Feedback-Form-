@@ -17,8 +17,8 @@ A modern web application for collecting and managing customer feedback with imag
 Create a `.env` file in the project root:
 
 ```env
-VITE_SUPABASE_URL=your_project_url_here
-VITE_SUPABASE_ANON_KEY=your_anon_key_here
+VITE_SUPABASE_URL=https://gmalbtmdynusbfeapkwy.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdtYWxidG1keW51c2JmZWFwa3d5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE5OTUzNTYsImV4cCI6MjA2NzU3MTM1Nn0.OdYShXRNTPuAk4tE8VEkQ8GSUe9JKWzg_hPzH04Df44
 ```
 
 ### 3. Install and Run
@@ -101,8 +101,8 @@ src/
 
 ### Environment Variables
 ```env
-VITE_SUPABASE_URL=https://your-project.supabase.co
-VITE_SUPABASE_ANON_KEY=your-anon-key
+VITE_SUPABASE_URL=https://gmalbtmdynusbfeapkwy.supabase.co
+VITE_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdtYWxidG1keW51c2JmZWFwa3d5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE5OTUzNTYsImV4cCI6MjA2NzU3MTM1Nn0.OdYShXRNTPuAk4tE8VEkQ8GSUe9JKWzg_hPzH04Df44
 ```
 
 ## 🚨 Troubleshooting
